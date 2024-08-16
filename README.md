@@ -10,8 +10,8 @@ V(t)为膜电位。当It为0时dV/dt<0,膜电位会以指数衰减的方式趋�
 
 ## AdEx模型
 
-![Alt text](/picture/p1.png)
-![Alt text](/picture/p1.png)
+![Alt text](/picture/image-2.png)
+![Alt text](/picture/image-3.png)
 
 gL漏导电率是描述神经元膜对离子漏出的导电能力的参数。它表示神经元在没有输入信号时如何缓慢恢复到其静息电位
 
